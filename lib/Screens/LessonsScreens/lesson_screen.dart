@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_speed_dial/flutter_speed_dial.dart';
 import 'package:provider/provider.dart';
 import 'package:py_quest/Providers/db_provider.dart';
-import 'package:py_quest/Resuable%20widgets/alert_dialog.dart';
 import 'package:py_quest/Screens/LessonsScreens/add_lesson.dart';
 import 'package:py_quest/Screens/LessonsScreens/lesson_explain_screen.dart';
 import 'package:py_quest/Utils/device_info.dart';

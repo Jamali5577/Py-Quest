@@ -6,9 +6,7 @@ import 'package:py_quest/Models/user_details.dart';
 import 'package:py_quest/Providers/db_provider.dart';
 import 'package:py_quest/Providers/scrore_provider.dart';
 import 'package:py_quest/Providers/user_provider.dart';
-import 'package:py_quest/Screens/UserScreens/dashboard_screen.dart';
 import 'package:py_quest/Screens/UserScreens/sign_in_screen.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'Utils/device_info.dart';
 import 'firebase_options.dart';
 
